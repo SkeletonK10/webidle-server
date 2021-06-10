@@ -1,0 +1,22 @@
+{
+  "name": "webidle-server",
+  "version": "1.0.0",
+  "description": "Toy project - web game that automatically processes / Serverside",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkeletonK10/webidle-server.git"
+  },
+  "author": "Deokgeun Hwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkeletonK10/webidle-server/issues"
+  },
+  "homepage": "https://github.com/SkeletonK10/webidle-server#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
